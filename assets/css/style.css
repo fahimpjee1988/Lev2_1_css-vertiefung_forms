@@ -1,0 +1,29 @@
+
+*{
+    width:100%;
+    margin:0;
+    text-align: center;
+}
+
+h1{
+    background-color: purple;
+    display: inline-block;
+    color:white;
+    width:400px;
+
+    margin-top:10%;
+
+}
+
+#button{
+    background-color: purple;
+    width:300px;
+    color: white;
+    font-size:24px;
+}
+
+#name, #email, #tel{
+    width: 600px;
+    background-color: lightpink;
+    margin:2px
+}
